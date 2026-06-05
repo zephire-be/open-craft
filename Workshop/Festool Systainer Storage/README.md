@@ -4,7 +4,7 @@
 
 - Stable multiplex (plywood) body with 5 Systainer telescopic drawer positions
 - 4 ball bearing-mounted swivel castors (2 with locking brakes)
-- compatible with FESTOOL SYS-AZ drawer For all systainers (classic and T-LOC) - 500692
+- Compatible with FESTOOL SYS-AZ drawer For all systainers (classic and T-LOC) - 500692
 - **Note:** Supplied without Festool rails.
 
 
